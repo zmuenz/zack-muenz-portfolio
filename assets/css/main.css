@@ -65,3 +65,7 @@ main {
 #info-card{
     z-index: -1;
 }
+
+.project-card {
+    z-index: -1;
+}
